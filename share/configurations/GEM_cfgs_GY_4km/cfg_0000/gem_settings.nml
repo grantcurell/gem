@@ -1,6 +1,6 @@
  &grid
   Grd_typ_S       = 'GY'       ,
-  Grd_nj          = 2240        ,
+  Grd_nj          = 40        ,
   Grd_xlat1       = 57.        , Grd_xlon1       = 250.
   Grd_xlat2       = 56.        , Grd_xlon2       = 291.
   Grd_overlap     = 2.0        , Grd_maxcfl      = 5 
